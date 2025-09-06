@@ -24,9 +24,16 @@
 
 ###
 
-<br clear="both">
-
-###
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api?username=llLucasPrado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="160em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=llLucasPrado&layout=compact&langs_count=6&theme=tokyonight&custom_title=Linguagens%20mais%20usadas"
+  />
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llLucasprado/llLucasprado/output/github-contribution-grid-snake-dark.svg">
