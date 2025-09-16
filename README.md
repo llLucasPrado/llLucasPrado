@@ -1,7 +1,7 @@
 <h2 align="left">👋 Fala ae! Eu sou o Lucas!</h2>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🎮 Gamer nas horas vagas | ☕ Ligado no café <br>
+🎮 Gamer nas horas vagas | <br>
 🌱 Atualmente aprendendo: Java, Node e Python
 
 ###
