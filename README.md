@@ -1,8 +1,9 @@
 <h2 align="left">👋 Fala ae! Eu sou o Lucas!</h2>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | <br>
+💻 Desenvolvedor de Software Full Stack | <br>
 🎮 Gamer nas horas vagas | <br>
-🌱 Atualmente aprendendo: React, Node e Python
+🌱 Atualmente aprendendo: Golang e React |
 
 ###
 
@@ -30,7 +31,7 @@
   <img 
     height="160em"
     width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=llLucasPrado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=llLucasPrado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     height="160em"
